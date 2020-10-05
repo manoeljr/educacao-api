@@ -19,6 +19,9 @@
 
 #### Quais requisitos obrigatórios que não foram entregues
  
-
+ - Não conseguir desenvolver o frontend. Devido ao meu tempo está muito corrido, no momento estou
+   em um freelance e também não conseguir entender com funciona a integração da API e o VUE, pois nunca tive contato antes com vue.
+   Hoje estou na stack Node, React, React Native. Ainda pensei em desenvolver o frontend com framework Nestjs(React), mais o desafio 
+   tinha quer ser o VUE.
 
 
